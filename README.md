@@ -59,17 +59,6 @@ Execute the SQL scripts in the following order:
 
 ---
 
-## Repository Structure
-.
-├── index.html
-├── DDL.sql
-├── DML.sql
-├── PL.sql
-├── README.md
-└── Group 118 - Project Step 6.pdf
-
----
-
 ## 👩‍💻 Author
 **Paulene Patrisha Pare and Darren Manalastas**  
 Computer Science Students
